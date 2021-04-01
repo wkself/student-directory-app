@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 //William Self
-//Lab Section Tuesday 1:30 pm
+//Lab Section Tues 1:30 pm
 //Lab 6 code written by William Self
 
 public class NewFrame extends JFrame implements ActionListener
